@@ -3,6 +3,9 @@ IDR Searchengine Browser
 This web application has a graphic user interface for working with
 the OMERO search engine indexed with IDR data at https://idr.openmicroscopy.org/.
 
+It was forked from an [experimental PR](https://github.com/ome/omero_search_engine_client/pull/25)
+of https://github.com/ome/omero_search_engine_client.
+
 * Filter IDR data using any combination of `AND` and `OR` conditions
 * Group images from a Study by their metadata
 
